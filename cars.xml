@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <category key="SUV">
+        <brand name="Toyota Motor Corporation">
+            <car name="Toyota FORTUNER">
+                <model>2.8 4X4 LTD AT</model>
+                <Seating_Capacity>2.8 4X4 LTD AT</Seating_Capacity>
+                <engine>4-Cylinder, In-line, 16-Valve DOHC Variable Nozzle Turbo with Air-cooled Intercooler</engine>
+                <colors>
+                    <color type="text">white</color>
+                </colors>
+            </car>
+        </brand>
+    </category>
+    <category key="Crossover">
+          <brand name="Honda Motor Company">
+            <car name="Honda HR-V">
+                <model>2.8 4X4 LTD AT</model>
+                <Seating_Capacity>2.8 4X4 LTD AT</Seating_Capacity>
+                <engine>HR-V. A 2.0-liter four-cylinder inline-four engine produces 158 hp and 138 lb-ft of torque, up 17 hp and 11 lb-ft from the previous model. Power is sent to the wheels by way of a CVT. Front-wheel drive is standard and all-wheel drive is available for every trim level.</engine>
+                <colors>
+                    <color type="text">white</color>
+                </colors>
+            </car>
+        </brand>
+    </category>
+    <category key="Sports Car">
+            <brand name="Toyota Motor Corporation">
+            <car name="Toyota GR Supra">
+                <model>J29/DB Toyota Supra</model>
+                <Seating_Capacity>2</Seating_Capacity>
+                <engine>6 cylinders, In-line Type, Twin-Scroll Turbocharged</engine>
+                <colors>
+                    <color type="text">red</color>
+                </colors>
+            </car>
+        </brand>
+    </category>
+    <category key="Minivan">
+            <brand name="Honda Motor Company">
+            <car name="Honda Odyssey">
+                <model>2023 Honda Odyssey</model>
+                <Seating_Capacity> 8 seat options, power sliding doors and the full suite of Honda Sensing Safety technologies. The Odyssey range has achieved a 5 Star ANCAP safety.</Seating_Capacity>
+                <engine>direct-injection V-6—a 3.5-liter, aluminum-alloy, single-overhead camshaft, 24-valve i-VTEC</engine>
+                <colors>
+                    <color type="text">gray</color>
+                </colors>
+            </car>
+        </brand>
+    </category>
+    <category key="Sedan">
+            <brand name="Toyota Motor Corporation">
+            <car name="Corolla Altis">
+                <model>1.8L 4-cylinder engine that produces 139 horsepower, estimated 38 MPG</model>
+                <Seating_Capacity>5</Seating_Capacity>
+                <engine>Dual VVT-I, 4-Cylinder In-Line DOHC, 16 Valve</engine>
+                <colors>
+                    <color type="text">white</color>
+                </colors>
+            </car>
+        </brand>
+    </category>
+</cars>
